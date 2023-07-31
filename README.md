@@ -5,3 +5,5 @@
 #### "./SSL/ssl_contrastive_train.ipynb" is based on [vit_unetr_ssl](https://github.com/Project-MONAI/tutorials/tree/main/self_supervised_pretraining/vit_unetr_ssl)
 #### 
 #### Image Registration Tool: [3D Slicer](https://www.slicer.org/)
+#### 
+#### Environment Setting: [Monia installion guide](https://docs.monai.io/en/stable/installation.html)
